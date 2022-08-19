@@ -1,0 +1,9 @@
+Fantasy Bot
+
+This project is using BasketBall Reference's 2022-2023 Projections to make a an automated draft tracker for optimal drafting. Based on selected players, it willupdate the best remaining player for a selected style.
+
+It is made using Python Pandas with multiple datasets all available on Pro Basketball Reference
+
+DataSets
+- ProBball Reference Simple Projections
+- ProBball Ref 2021-2022 Per Game Stats
